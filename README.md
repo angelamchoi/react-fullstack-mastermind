@@ -1,3 +1,5 @@
+## Play Mastermind game [here](https://angela-react-mastermind.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
