@@ -47,3 +47,7 @@ export default {
   logout,
   login
 };
+
+// Notes
+// -->token is going to token service
+// -->user is going to user service

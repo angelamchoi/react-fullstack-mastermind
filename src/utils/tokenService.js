@@ -35,3 +35,7 @@ export default {
   removeToken,
   getUserFromToken
 };
+
+// Notes:
+//-- Persist: storing some value
+//-- We are using localStorage to store the password
